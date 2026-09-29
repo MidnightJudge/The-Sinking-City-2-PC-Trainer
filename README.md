@@ -124,3 +124,4 @@ Website: https://trainedhierar.github.io/
 ## Disclaimer
 
 This is an independent community project theme and is not affiliated with any game developer, publisher, storefront, or trademark owner referenced by the project name.
+                                                                                                    
